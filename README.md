@@ -103,7 +103,7 @@ may have drifted from the actual config in the source, so consult that first):
 ### Target options
 
 * Target Architecture: i386
-* Target Architecture Variant: pentium mobile (Pentium with MMX, SSE)
+* Target Architecture Variant: pentium III (Pentium with MMX, SSE, SSE2) - updated!
 
 ### Build options
 
